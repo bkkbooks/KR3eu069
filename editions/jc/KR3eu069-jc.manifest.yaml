@@ -1,0 +1,463 @@
+canonical_identifier: bkk:krp/KR3eu069/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eu069/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 醫斷與斥醫斷
+  identifiers:
+    krp: KR3eu069
+  tags:
+    kr-categories: KR3eu
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eu069.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eu069_000-jc.yaml, hash: 'sha256:a9c9ad1fae2408b96aed792a18347999cac061e9777de742aaefbc67cf0d96bc'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eu069_000-jc.markers.yaml, hash: 'sha256:88c47d3389d8ddbda66933e268f29250a718f13a6325c14a36705267c27280f5'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eu069_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 194
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu069_jc_000-d3.h1s1
+    span:
+    - front
+    - 194
+    - 395
+  label: 自序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu069_jc_000-d4.h1s1
+    span:
+    - body
+    - 0
+    - 5012
+  label: 醫斷
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu069_jc_000-d4d2
+    span:
+    - body
+    - 2
+    - 130
+  label: 司命
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu069_jc_000-d4d3
+    span:
+    - body
+    - 130
+    - 448
+  label: 死生
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu069_jc_000-d4d4
+    span:
+    - body
+    - 448
+    - 653
+  label: 元氣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu069_jc_000-d4d5
+    span:
+    - body
+    - 653
+    - 900
+  label: 脈候
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu069_jc_000-d4d6
+    span:
+    - body
+    - 900
+    - 974
+  label: 腹候
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu069_jc_000-d4d7
+    span:
+    - body
+    - 974
+    - 1078
+  label: 臟腑
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu069_jc_000-d4d8
+    span:
+    - body
+    - 1078
+    - 1152
+  label: 經絡
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu069_jc_000-d4d9
+    span:
+    - body
+    - 1152
+    - 1242
+  label: 引經報使
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu069_jc_000-d4d10
+    span:
+    - body
+    - 1242
+    - 1310
+  label: 針灸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu069_jc_000-d4d11
+    span:
+    - body
+    - 1310
+    - 1357
+  label: 榮衛
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu069_jc_000-d4d12
+    span:
+    - body
+    - 1357
+    - 1452
+  label: 陰陽
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu069_jc_000-d4d13
+    span:
+    - body
+    - 1452
+    - 1546
+  label: 五行
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu069_jc_000-d4d14
+    span:
+    - body
+    - 1546
+    - 1602
+  label: 運氣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu069_jc_000-d4d15
+    span:
+    - body
+    - 1602
+    - 1719
+  label: 理
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu069_jc_000-d4d16
+    span:
+    - body
+    - 1719
+    - 1813
+  label: 醫意
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu069_jc_000-d4d17
+    span:
+    - body
+    - 1813
+    - 1905
+  label: 痼疾
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu069_jc_000-d4d18
+    span:
+    - body
+    - 1905
+    - 1976
+  label: 素難
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu069_jc_000-d4d19
+    span:
+    - body
+    - 1976
+    - 2061
+  label: 本草
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu069_jc_000-d4d20
+    span:
+    - body
+    - 2061
+    - 2148
+  label: 修治
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu069_jc_000-d4d21
+    span:
+    - body
+    - 2148
+    - 2188
+  label: 相畏相反
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu069_jc_000-d4d22
+    span:
+    - body
+    - 2188
+    - 2334
+  label: 毒藥
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu069_jc_000-d4d23
+    span:
+    - body
+    - 2334
+    - 2440
+  label: 藥能
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu069_jc_000-d4d24
+    span:
+    - body
+    - 2440
+    - 2468
+  label: 藥產
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu069_jc_000-d4d25
+    span:
+    - body
+    - 2468
+    - 2635
+  label: 人參
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu069_jc_000-d4d26
+    span:
+    - body
+    - 2635
+    - 2830
+  label: 古方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu069_jc_000-d4d27
+    span:
+    - body
+    - 2830
+    - 2899
+  label: 名方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu069_jc_000-d4d28
+    span:
+    - body
+    - 2899
+    - 3044
+  label: 仲景書
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu069_jc_000-d4d29
+    span:
+    - body
+    - 3044
+    - 3107
+  label: 傷寒六經
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu069_jc_000-d4d30
+    span:
+    - body
+    - 3107
+    - 3481
+  label: 病因
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu069_jc_000-d4d31
+    span:
+    - body
+    - 3481
+    - 3649
+  label: 治法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu069_jc_000-d4d32
+    span:
+    - body
+    - 3649
+    - 3738
+  label: 禁宜
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu069_jc_000-d4d33
+    span:
+    - body
+    - 3738
+    - 3888
+  label: 量數
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu069_jc_000-d4d34
+    span:
+    - body
+    - 3888
+    - 4002
+  label: 產蓐
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu069_jc_000-d4d35
+    span:
+    - body
+    - 4002
+    - 4134
+  label: 初誕
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu069_jc_000-d4d36
+    span:
+    - body
+    - 4134
+    - 4263
+  label: 痘疹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu069_jc_000-d4d37
+    span:
+    - body
+    - 4263
+    - 4444
+  label: 攻補
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu069_jc_000-d4d38
+    span:
+    - body
+    - 4444
+    - 5012
+  label: 虛實
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu069_jc_000-d5.h1s1
+    span:
+    - body
+    - 5012
+    - 5274
+  label: 刻斥醫斷凡例
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu069_jc_000-d6.h1s1
+    span:
+    - body
+    - 5274
+    - 15930
+  label: 斥醫斷
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu069_jc_000-d6d2
+    span:
+    - body
+    - 5277
+    - 15310
+  label: 緒言
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu069_jc_000-d6d3
+    span:
+    - body
+    - 15310
+    - 15930
+  label: 題斥醫斷後
+  type: section
+  level: 2
+hash: sha256:7b26f64005cabb858de22b58701c491d3b373b1335b14fdea88bb9df337af392
